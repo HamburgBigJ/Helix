@@ -37,3 +37,7 @@
 
 #git
 .git
+
+#Helix
+bin
+bin-int
